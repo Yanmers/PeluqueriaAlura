@@ -1,0 +1,272 @@
+div{
+    font-family: 'Montserrat', sans-serif;
+}
+header{
+    background-color: #BBBBBB;
+    
+}
+.logo{
+    width: 10%;
+    margin-left: 50px;
+    
+}
+
+nav li{
+    display: inline-block;
+    margin: 12px;
+    
+}
+
+nav a{
+    text-transform: uppercase;
+    color: #000;
+    font-weight: bold;;
+    font-size: medium;
+    text-decoration: none;
+}
+
+nav a:hover{
+    font-size: 18px;
+}
+
+nav a:hover{
+    color: goldenrod;
+    text-decoration: underline;
+}
+
+
+
+nav{
+    position: absolute;
+    top: 50px;
+    right: 50px;
+}
+
+main{
+    padding: 50px;
+    
+}
+
+.productos{
+    width: 940px;
+    margin: 0 auto;
+    display: inline;
+    padding: 50px;
+}
+
+
+
+
+.productos li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: center;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border-color: #000;;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 60px;
+    border-radius: 50px;
+    background: #c4c4c4;
+    box-shadow:  -23px -23px 46px #a7a7a7,
+             23px 23px 46px #e1e1e1;
+}
+
+.productos li:hover{
+    color: goldenrod;
+    text-decoration: underline;
+    font-size: 40px;
+   
+}
+
+.productos li:active{
+    color: green;
+}
+
+
+.productos h2{
+    font-size: 30px;
+    font-weight: bold;
+    padding: 35px;
+}
+
+.productos li:hover ul{
+     font-size: 33px;
+}
+
+
+.imgbarba{
+    width: 25%;
+   
+}
+
+.imgcabello{
+    width: 25%;
+   
+}
+
+.imgcabelloBarba{
+    width: 25%;
+   
+}
+
+.productos-descripcion{
+    font-size: 18px;
+}
+
+.productos-precio{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+footer{
+    text-align: center;
+    background-color: #BBBBBB;
+    padding: 40px;
+    
+}
+
+footer p {
+    padding: 20px;
+    font-size: 10px;
+}
+
+
+
+.logo2{
+    width: 10%;
+    margin-top: 20px;
+    
+   
+}
+
+main{
+    width: 940px;
+    margin: 0 auto;
+    
+}
+
+form{
+    margin: 40px 0;
+    
+}
+
+form label{
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+.input-padron{
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px;
+    width: 50%;
+    
+}
+
+.checkbox{
+    margin: 20px 0;
+}
+
+.enviar{
+    width: 40%;
+    padding: 15px 0;
+    background-color: orange;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: white;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+
+.enviar:hover{
+    background: darkorange;
+}
+
+table{
+    margin: 40px 40px;
+}
+
+thead{
+    background: #555;
+    color: white;
+    font-weight: bold;
+}
+
+td,th{
+    border: 1px solid #000;
+    padding: 8px 15px;
+}
+
+#banner{
+    width: 100%;
+    height: 500px
+
+}
+
+section.bloquePrincipal{
+    margin-inline: auto;
+    width: 100%;
+    display: contents;
+    
+}
+
+
+
+em strong{
+    color: blueviolet;
+}
+
+#mision{
+    font-size: 20px;
+}
+
+.diferenciales{
+    background-color: white;
+    text-align: center;
+    margin-top: 10%;
+}
+
+h2{
+    margin-left: 20px;
+    
+}
+
+
+.referencias{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.items{
+    font-style: italic;
+}
+
+
+.imagenDiferenciales{
+    width: 50%;
+}
+
+.titulo-principal{
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+}
+
+.bloquePrincipal p{
+    margin: 0 0 1em;
+    
+}
+
+
+
+
+
